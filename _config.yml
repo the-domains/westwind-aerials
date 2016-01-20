@@ -1,0 +1,28 @@
+name: WestWind Aerials
+favicon: null
+layout_spectrum: 0.9652151775080711
+typography_spectrum: 0.42512225825339556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.30166223319247365
+  lightness: 0.18728447332978249
+  saturation: 0.08925347705371678
+  rhythmicContrast: 0.892943921033293
+purpose: []
